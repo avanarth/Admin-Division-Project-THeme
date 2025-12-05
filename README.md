@@ -4,7 +4,7 @@ title: A World Divided:
 tagline: A Graphical Comparison
 rationale statement: The motivation behind this project was to find analyze the admin data from countries across the world to see if population, the number of minority groups present in the country, type of government or the total % of population had an effect on the number of administrative divisions in a country. My wish for the project is to assemble all this data from API's or webscrapping to create graphs, charts and other visual manifestiation of data so that clear trends (or lack thereof) can clearly be seen. If there are clear trends shown from the data, hopefully this knowledge can help poltical scientists understand the relation between populations, ethnicity and local administration. 
 description: [A short description of your site's purpose (e.g. for search engines)]
-workflow: Libraries I have used to assemble code for the project include kamikazechaser's administrative-division-db github page [https://github.com/kamikazecO
+workflow: Libraries I have used to assemble code for the project include using API requests on  kamikazechaser's free api administrative-division-db github page [https://github.com/kamikazechaser/administrative-divisions-db] and webscraping from the website the administrative divisions are coming from  [https://www.geonames.org/countries]. 
 further uses: With the code I have set up for this project, 
 files list: 
 ```
