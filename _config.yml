@@ -1,10 +1,4 @@
 ```yml
 title: A World Divided
 tagline: A Graphical Comparison
-description: This project will take data from geocoding websites and API's dervivided from them to assemble a list of administrative divisons of countries. I have taken data which gives a particuarly country's admin divisions,
-theme: jekyll-theme-midnight
-remote_theme: pages-themes/midnight@v0.2.0
-    plugins:
-    - jekyll-remote-theme
-'script/bootstrap'
-```
+description: Using a combination of API calls and webscrapping, this project can use its code to pull information from any country, taking a list of administrative divisions and comparing that table to another table with the country's population, sqaure area and other population statistics. The project with then allow graphs and tables to be made so that we can research to find out if there is a relationship between various poltical, ethnic and geographical factors that have an impact on the amount of local administration division a particular nation develops. I am also developing a webpage that will take this data and display the graphs or charts in an asethically pleasing way. Using the data of a couple randomn countries, I will then argue in favor or against my argument depending on what the data shows. 
