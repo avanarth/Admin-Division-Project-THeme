@@ -1,4 +1,4 @@
-``` yml.
+```yml
 title: A World Divided
 tagline: A Graphical Comparison
 description: This project will take data from geocoding websites and API's dervivided from them to assemble a list of administrative divisons of countries. I have taken data which gives a particuarly country's admin divisions,
