@@ -4,8 +4,6 @@ layout: default
 
 Welcome! You have arrived at Population Divided: An Admin Survey.
 
-[Link to another page](./another-page.html).
-
 The purpose of this project is to try to figure out weather there is a causal relationship between the number of highest-level administrative divisons in a particular nation-state and other common nation statstics, such as total population, number of major ethnic groups, or sqaure area.  For this project, I have chosen three countries: Kenya, Thailand, and Argentina. The countries are all on different continents 
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
