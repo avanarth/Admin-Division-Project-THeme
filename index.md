@@ -24,7 +24,6 @@ I first began writing the code to this project by using pandas to create three A
 
 <html>
 <head>
-<title>countriesmax</title>
 <meta charset="utf-8" />
 </head>
 <body>
