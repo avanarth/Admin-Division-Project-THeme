@@ -4,7 +4,7 @@ layout: default
 
 Welcome! You have arrived at Population Divided: An Admin Survey.
 
-The purpose of this project is to try to figure out weather there is a causal relationship between the number of highest-level administrative divisons in a particular nation-state and other common nation statstics, such as total population, number of major ethnic groups, or sqaure area.  For this project, I have chosen three countries: Kenya, Thailand, and Argentina. The countries are all on different continents 
+The purpose of this project is to try to figure out weather there is a causal relationship between the number of highest-level administrative divisons in a particular nation-state and other common nation statstics, such as total population, number of major ethnic groups, or sqaure area.  For this project, I have chosen three countries: Kenya, Thailand, and Argentina. The countries are all on different continents,  have different economies and all have a unqiue relationships to major ethnic groups. 
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -14,9 +14,13 @@ Before I began working on this project, I proposed a hypothesis that the number 
 
 ## Explaining Terms
 
-Before we get into the data and case study countries I will be defining terms. In this project, "highest-level administrative divisions" refers to the largest administrative divisions in a nation that holds self-governing powers. For a country such as Kenya, with a somewhat devolved/decentralized government, this refers to the 47 counties. 
+Before we get into the data and case study countries I will be defining terms. In this project, "highest-level administrative divisions" refers to the largest administrative divisions in a nation that holds self-governing powers. For a country such as Kenya, with a somewhat devolved/decentralized government, this refers to the 47 counties. In regards to 'major ethnic groups', this project will define a major ethnic group as an ethnic group which consists of at least 2% of the total population of the nation I am examining.
 
 ![The 47 Counties](Kenya_County_Map.jpg)
+
+## Project Process and Code 
+
+I first began writing the code to this project via 
 
 ### Kenya 
 
@@ -31,32 +35,15 @@ r
 ![Thailand's 76 provinces and One Capital](Thai_Admin.png)
 s
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-### Header 6
+### A quick chart 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Country      | Total Population  | Number of Major Ethnic Groups | Sqaure Area[km^2]   |
+|:-------------|:------------------|:------------------------------|:--------------------|
+| Kenya        | good swedish fish | nice                          |                     |
+| Argentina    | good and plenty   | nice                          |                     |
+| Thailand     | good `oreos`      | hmm                           |                     |
 
 ### There's a horizontal rule below this.
 
 * * *
-
-### Here is an unordered list:
-
