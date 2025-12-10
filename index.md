@@ -18,9 +18,15 @@ Before we get into the data and case study countries I will be defining terms. I
 
 ## Project Process and Code 
 
-I first began writing the code to this project by using pandas to create three API calls which brought back the total list of 
+I first began writing the code to this project by using pandas to create three API calls which brought back the total list of Admin Divisions for the country I called based on  the two-digit ISO-3166 code for the nation. The html the API call takes from looks like this, using Kenya as an example ![](https://rawcdn.githack.com/kamikazechaser/administrative-divisions-db/master/api/KE.json). The Administrative Divisons API I used for the begining section of the project come from Geonames.org ![](https://www.geonames.org/countries/) 
+
+When formated into a dataframe, the data is formated like this: 
+![](kenframe.csv) 
+
 
 ## The Master List 
+
+After pulling out the administrative divison tables for my three example nations, I turned to webscrapping to create a 'master list' with all the information I need about any given country. 
 
 <html>
 <head>
@@ -297,16 +303,16 @@ r
 
 ### Thailand 
 ![Thailand's 76 provinces and One Capital](Thai_Admin.png)
-s
 
+s
 
 ### A quick chart 
 
 | Country      | Total Population  | Number of Major Ethnic Groups | Sqaure Area[km^2]   |
 |:-------------|:------------------|:------------------------------|:--------------------|
-| Kenya        | good swedish fish | nice                          |                     |
+| Kenya        | 51393010          |                               |          582650     |
 | Argentina    | good and plenty   | nice                          |                     |
-| Thailand     | good `oreos`      | hmm                           |                     |
+| Thailand     |  69428524         |                               |      514000         | 
 
 ### There's a horizontal rule below this.
 
