@@ -295,19 +295,19 @@ After pulling out the administrative divison tables for my three example nations
 
 A chart of information from Geonames.org, cleaned with pandas, manually copied to a .xlsx file, and then coverted into HTML.
 
-### Kenya 
+### Kenya Ethnic Stats
 
-h
+![](CIA_Factbook_Ethnic_Distribution_in_Kenya.jpg)
 
-### Argentina 
+### Argentina Ethnic Stats
 ![Argentina's 22 counties and One Capital](Argentina_Admin.png)
 
-r
+![](Argentinastats.png)
 
-### Thailand 
+### Thailand Ethnic Stats
 ![Thailand's 76 provinces and One Capital](Thai_Admin.png)
 
-s
+![](Thai_ethnic.jpg)
 
 ### The Informal List  
 
