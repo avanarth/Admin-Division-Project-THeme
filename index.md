@@ -309,14 +309,15 @@ r
 
 s
 
-### A quick chart 
+### The Informal List  
 
-| Country      | Total Population  | Number of Major Ethnic Groups | Sqaure Area[km^2]   |
-|:-------------|:------------------|:------------------------------|:--------------------|
-| Kenya        | 51393010          |                               |       582650        |
-| Argentina    | good and plenty   | nice                          |       2766890       |
-| Thailand     | 69428524          |                               |       514000        | 
+| Country   | Total Pop  | Number of Major Ethnic Groups | Sqaure Area[km^2]   | Number of Admin Divisons | 
+|:----------|:-----------|:------------------------------|:--------------------|:-------------------------|:
+| Kenya     | 51393010   |                               |       582650        |         47               |
+| Argentina | 44494502   | nice                          |       2766890       |         23(22+1)         |
+| Thailand  | 69428524   |                               |       514000        |         77(76+1)         |
 
-### There's a horizontal rule below this.
+* * * 
 
-* * *
+## Conclusions 
+
